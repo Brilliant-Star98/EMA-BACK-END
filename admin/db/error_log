@@ -1,0 +1,13 @@
+[17-Jan-2018 09:16:39 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[17-Jan-2018 09:18:23 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[17-Jan-2018 09:20:23 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[17-Jan-2018 10:04:16 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[17-Jan-2018 10:12:09 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[17-Jan-2018 10:14:09 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[17-Jan-2018 11:57:39 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[17-Jan-2018 12:02:14 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[17-Jan-2018 12:12:03 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[17-Jan-2018 12:14:18 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[17-Jan-2018 12:15:32 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[17-Jan-2018 12:17:47 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[17-Jan-2018 12:18:08 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
